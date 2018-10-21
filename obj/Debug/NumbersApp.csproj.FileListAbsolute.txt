@@ -1,0 +1,10 @@
+c:\users\--\source\repos\NumbersApp\NumbersApp\obj\Debug\NumbersApp.Form1.resources
+c:\users\--\source\repos\NumbersApp\NumbersApp\obj\Debug\NumbersApp.Properties.Resources.resources
+c:\users\--\source\repos\NumbersApp\NumbersApp\obj\Debug\NumbersApp.csproj.GenerateResource.cache
+c:\users\--\source\repos\NumbersApp\NumbersApp\obj\Debug\NumbersApp.csproj.CoreCompileInputs.cache
+c:\users\--\source\repos\NumbersApp\NumbersApp\bin\Debug\NumbersApp.exe.config
+c:\users\--\source\repos\NumbersApp\NumbersApp\bin\Debug\NumbersApp.exe
+c:\users\--\source\repos\NumbersApp\NumbersApp\bin\Debug\NumbersApp.pdb
+c:\users\--\source\repos\NumbersApp\NumbersApp\obj\Debug\NumbersApp.exe
+c:\users\--\source\repos\NumbersApp\NumbersApp\obj\Debug\NumbersApp.pdb
+c:\users\--\source\repos\NumbersApp\NumbersApp\obj\Debug\NumbersApp.csprojAssemblyReference.cache
